@@ -1,0 +1,2 @@
+# gpsrecord
+record gps
